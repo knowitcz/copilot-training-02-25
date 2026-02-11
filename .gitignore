@@ -52,3 +52,7 @@ cython_debug/
 
 # SQLite database files
 *.db
+
+# Log files
+logs/
+*.log
